@@ -8,16 +8,18 @@ import model.comparator.PriceComparator;
 import java.util.*;
 
 
-public class HouseManager  {
+public class HouseManager implements Model{
     LinkedList<House> houseList = new LinkedList<>();
 
     public HouseManager() {
         fillHouseList();
     }
 
+
     public LinkedList<House> getHouseList() {
         return houseList;
     }
+
 
     public LinkedList<House> sortHousesByPrice(int maximumPrice) {
         LinkedList<House> sortedHouses = new LinkedList<>();
