@@ -1,0 +1,13 @@
+model\Model.class
+controller\Controller.class
+model\ProductLogic.class
+META-INF\org\apache\logging\log4j\core\config\plugins\Log4j2Plugins.dat
+view\View.class
+App.class
+controller\ConsoleController.class
+Logger\SmsAppender.class
+Logger\SmsSender.class
+model\comparator\AmountComparator.class
+model\Product.class
+model\comparator\PriceComparator.class
+view\ConsoleView.class

@@ -1,0 +1,124 @@
+Configuration:
+  status: warn
+  name: Log4j2_Config
+  properties:
+    property:
+      name: log-path
+      value: logs
+      #__________________________________
+  appenders:
+    Console:
+      - name: STDOUT
+        PatternLayout:
+          Pattern: "%highlight{%-5level}{ERROR=bg_red} %style{%date{yyyy-MM-dd
+        HH:mm:ss.SSS}}{blue} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        Filters:
+          ThresholdFilter:
+            level: warn
+            onMatch: DENY
+            onMismatch: NEUTRAL
+      - name: STDOU
+        PatternLayout:
+          Pattern: "%highlight{%-5level}{ERROR=bg_red} %style{%date{yyyy-MM-dd
+        HH:mm:ss}}{blue} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        Filters:
+          ThresholdFilter:
+            level: info
+
+    File:
+      name: File
+      fileName: ${log-path}/logFile.log
+      PatternLayout:
+        Pattern: "{%-5level} %style{%date{yyyy-MM-dd
+                         HH:mm:ss.SSS}} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+      Filters:
+        ThresholdFilter:
+          level: error
+          onMatch: DENY
+          onMismatch: NEUTRAL
+
+    RollingFile:
+      - name: rolFile1
+        fileName: ${log-path}/rolFile1.log
+        filePattern: ${log-path}/archive/rolFile1.log.%d{yyyy-MM-dd-hh-mm}.log
+        PatternLayout:
+          Pattern: "{%-5level} %style{%date{yyyy-MM-dd
+                                 HH:mm:ss.SSS}} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        Policies:
+          SizeBasedTriggeringPolicy:
+            size: 1 MB
+
+      - name: rolFile2
+        fileName: ${log-path}/rolFile2.log
+        filePattern: ${log-path}/archive/rolFile2.log-%d{yyyy-MM-dd-hh-mm}.log
+        PatternLayout:
+          Pattern: "{%-5level} %style{%date{yyyy-MM-dd
+                                 HH:mm:ss.SSS}} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        Policies:
+          TimeBasedTriggeringPolicy:
+            interval: 1
+            modulate: true
+
+      - name: rolFile3
+        fileName: ${log-path}/rolFile3.log
+        filePattern: ${log-path}/archive/rolFile3.log
+        PatternLayout:
+          Pattern: "{%-5level} %style{%date{yyyy-MM-dd
+                                 HH:mm:ss.SSS}} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        CronTriggeringPolicy:
+          schedule: "0 15 10 ? * *"
+          evaluateOnStartup: true
+        DefaultRolloverStrategy:
+          max: 1
+
+    SMTP:
+      name: MailAppender
+      subject: "Error Log"
+      to: "beshanoy-kot@list.ru"
+      from: "horbachenkodenis@gmail.com"
+      smtpHost: "smtp.gmail.com"
+      smtpPort: 465
+      smtpProtocol: smtps
+      smtpUsername: "horbachenkodenis@gmail.com"
+      smtpPassword: "********"
+      bufferSize: 512
+      HTMLLayout:
+        charset: "UTF-8"
+        title: "Logs from Denys project"
+
+    #SMS get Exception in Appender MailAppender but works
+
+    SMS:
+      name: SMSsender
+      PatternLayout:
+        Pattern: "[%-5level] %d{yyyy-MM-dd HH:mm:ss} - %msg %xEx{short}"
+
+    Async:
+      name: AsyncSMS
+      AppenderRef:
+        ref: SMSsender
+
+
+
+  Loggers:
+    Root:
+      level: all
+      AppenderRef:
+        - ref: STDOUT
+          level: info
+        - ref: STDOU
+        - ref: File
+          level: warn
+        - ref: rolFile1
+        - ref: rolFile2
+        - ref: rolFile3
+        - ref: MailAppender
+          level: error
+        - ref: SMSsender
+
+    Logger:
+      - name: com.epam.Application
+        level: all
+        AppenderRef:
+          - ref: AsyncSMS
+            level: fatal
