@@ -1,0 +1,45 @@
+{WARN } 2023-06-05 10:20:44.174 ConsoleController:59-Невірна команда:  
+{INFO } 2023-06-05 10:20:48.361 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:20:48.366 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:20:48.367 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:20:50.306 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:30:04.442 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:30:04.457 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:30:04.459 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:30:06.540 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:30:07.718 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:30:43.464 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:30:43.469 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:30:43.471 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:30:45.402 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:30:46.511 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:34:46.909 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:34:46.940 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:34:46.942 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:34:48.770 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:34:49.880 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:34:49.892 SmsSender:18-step 1 
+{INFO } 2023-06-05 10:37:06.811 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:37:06.828 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:37:06.829 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:37:08.874 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:37:10.040 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:37:10.048 SmsSender:18-step 1 
+{INFO } 2023-06-05 10:37:11.431 SmsSender:26-step 2 
+{INFO } 2023-06-05 10:37:11.432 SmsSender:28-SMS message sent 
+{INFO } 2023-06-05 10:38:34.862 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:38:34.880 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:38:34.882 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:38:36.748 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:38:38.047 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:38:38.054 SmsSender:18-step 1 
+{INFO } 2023-06-05 10:38:39.416 SmsSender:26-step 2 
+{INFO } 2023-06-05 10:38:39.417 SmsSender:28-SMS message sent 
+{INFO } 2023-06-05 10:42:49.808 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:42:49.825 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:42:49.827 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:42:51.847 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-05 10:42:52.963 SmsSender:16-start sending SMS message 
+{INFO } 2023-06-05 10:42:52.970 SmsSender:18-step 1 
+{INFO } 2023-06-05 10:42:54.447 SmsSender:21-step 2 
+{INFO } 2023-06-05 10:42:54.451 SmsSender:23-SMS message sent 

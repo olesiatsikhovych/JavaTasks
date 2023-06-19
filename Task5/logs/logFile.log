@@ -1,0 +1,66 @@
+{WARN } 2023-06-02 11:44:09.980 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 11:44:09.980 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 11:44:09.980 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 11:53:53.232 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 11:53:53.232 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 11:53:54.654 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 12:06:03.424 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 12:06:03.424 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 12:06:05.600 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 12:06:20.375 ConsoleController:59-Невірна команда:  
+{WARN } 2023-06-02 12:55:03.064 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 12:55:03.064 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 12:55:05.221 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:21:28.464 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:21:28.464 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:21:30.792 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:32:10.484 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:32:10.485 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:32:12.461 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:34:39.067 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:34:39.067 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:34:41.036 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:35:25.485 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:35:25.500 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:35:27.547 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:43:53.373 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:43:53.608 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:43:55.483 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:45:49.503 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:45:49.519 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:45:51.769 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:46:04.268 ConsoleController:59-Невірна команда:  
+{WARN } 2023-06-02 13:48:52.676 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:48:52.692 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:48:54.848 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-02 13:58:29.305 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:58:29.320 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:58:31.445 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:09:37.638 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:09:37.654 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:09:39.810 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:20:44.174 ConsoleController:59-Невірна команда:  
+{WARN } 2023-06-05 10:20:48.366 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:20:48.367 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:20:50.306 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:30:04.457 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:30:04.459 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:30:06.540 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:30:43.469 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:30:43.471 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:30:45.402 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:34:46.940 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:34:46.942 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:34:48.770 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:37:06.828 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:37:06.829 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:37:08.874 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:38:34.880 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:38:34.882 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:38:36.748 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-05 10:42:49.825 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:42:49.827 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:42:51.847 ConsoleController:74-Повідомлення рівня fatal 
+{WARN } 2023-06-07 13:55:43.039 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-07 13:55:43.039 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-07 13:55:45.726 ConsoleController:74-Повідомлення рівня fatal 

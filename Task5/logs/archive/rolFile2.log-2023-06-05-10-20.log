@@ -1,0 +1,5 @@
+{WARN } 2023-06-05 10:20:44.174 ConsoleController:59-Невірна команда:  
+{INFO } 2023-06-05 10:20:48.361 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-05 10:20:48.366 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-05 10:20:48.367 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-05 10:20:50.306 ConsoleController:74-Повідомлення рівня fatal 
