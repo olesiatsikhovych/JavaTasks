@@ -1,8 +1,0 @@
-{INFO } 2023-06-05 10:37:06.811 ConsoleController:71-Повідомлення рівня info 
-{WARN } 2023-06-05 10:37:06.828 ConsoleController:72-Повідомлення рівня warn 
-{ERROR} 2023-06-05 10:37:06.829 ConsoleController:73-Повідомлення рівня error 
-{FATAL} 2023-06-05 10:37:08.874 ConsoleController:74-Повідомлення рівня fatal 
-{INFO } 2023-06-05 10:37:10.040 SmsSender:16-start sending SMS message 
-{INFO } 2023-06-05 10:37:10.048 SmsSender:18-step 1 
-{INFO } 2023-06-05 10:37:11.431 SmsSender:26-step 2 
-{INFO } 2023-06-05 10:37:11.432 SmsSender:28-SMS message sent 

@@ -1,3 +1,0 @@
-Name: meat, price: 100$, amount: 10, id: 2
-Name: grapes, price: 60$, amount: 15, id: 3
-Name: water, price: 30$, amount: 20, id: 1
