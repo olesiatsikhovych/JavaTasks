@@ -1,0 +1,16 @@
+{INFO } 2023-06-02 13:58:29.305 ConsoleController:71-Повідомлення рівня info 
+{WARN } 2023-06-02 13:58:29.305 ConsoleController:72-Повідомлення рівня warn 
+{ERROR} 2023-06-02 13:58:29.320 ConsoleController:73-Повідомлення рівня error 
+{FATAL} 2023-06-02 13:58:31.445 ConsoleController:74-Повідомлення рівня fatal 
+{INFO } 2023-06-02 13:58:36.976 ConsoleController:82-Додано новий продукт: wsdfghjk 
+{INFO } 2023-06-02 13:58:36.992 ConsoleController:36-Натиснуто кнопку 1 
+{INFO } 2023-06-02 13:58:40.148 ConsoleController:114-Виведено колекцію продуктів 
+{INFO } 2023-06-02 13:58:40.148 ConsoleController:88-Виведено список продуктів 
+{INFO } 2023-06-02 13:58:40.164 ConsoleController:40-Натиснуто кнопку 2 
+{INFO } 2023-06-02 13:58:40.570 ConsoleController:114-Виведено колекцію продуктів 
+{INFO } 2023-06-02 13:58:40.570 ConsoleController:94-Відсортовано список продктів за ціною 
+{INFO } 2023-06-02 13:58:40.586 ConsoleController:44-Натиснуто кнопку 3 
+{INFO } 2023-06-02 13:58:42.039 ConsoleController:114-Виведено колекцію продуктів 
+{INFO } 2023-06-02 13:58:42.039 ConsoleController:100-Відсортовано список продуктів за кількістю 
+{INFO } 2023-06-02 13:58:42.039 ConsoleController:48-Натиснуто кнопку 4 
+{INFO } 2023-06-02 13:58:43.586 ConsoleController:56-Вихід 
