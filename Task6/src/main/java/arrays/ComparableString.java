@@ -5,7 +5,6 @@ import java.util.Collections;
 import java.util.Random;
 
 public class ComparableString {
-    ArrayList<String> arrayList = new ArrayList<String>();
 
     public void fillArrayList(ArrayList<String> arrayList){
         Random random = new Random();

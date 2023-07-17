@@ -57,14 +57,14 @@ public class MyArrayList {
     }
 
     public void deleteDuplicates(){
-        ArrayList<Integer> duplicates = new ArrayList<Integer>();
+        ArrayList<Integer> unique = new ArrayList<Integer>();
         for (Integer integer : list1){
             if (!list2.contains(integer)){
-                duplicates.add(integer);
+                unique.add(integer);
             }
         }
         System.out.println("Лист унікальних чисел: ");
-        for (Integer integer : duplicates){
+        for (Integer integer : unique){
             System.out.print(integer + " ");
         }
         System.out.println();

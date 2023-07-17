@@ -1,5 +1,6 @@
 package arrays;
 
+import java.util.ArrayList;
 import java.util.Collections;
 
 public class App {
@@ -15,12 +16,13 @@ public class App {
         myArrayList.deleteDuplicates();
 
         ComparableString comparableString = new ComparableString();
-        comparableString.fillArrayList(comparableString.arrayList);
+        ArrayList<String> arrayList = new ArrayList<String>();
+        comparableString.fillArrayList(arrayList);
         System.out.println();
-        Collections.sort(comparableString.arrayList);
-        System.out.println("Відсортований ArrayList: " + comparableString.arrayList);
+        Collections.sort(arrayList);
+        System.out.println("Відсортований ArrayList: " + arrayList);
         System.out.println("Шукане число: 5");
         System.out.println("Індекс шуканого числа:");
-        System.out.println(comparableString.binarySearch(comparableString.arrayList,"5"));
+        System.out.println(comparableString.binarySearch(arrayList,"5"));
     }
 }

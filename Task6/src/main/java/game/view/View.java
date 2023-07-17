@@ -19,8 +19,9 @@ public class View {
     }
 
     public void printSafeDoorOrder(){
-        if (!room.getSafeDoorOrder().isEmpty()) {
-            System.out.println("Порядок відкривання дверей, щоб герой вижив: " + room.getSafeDoorOrder());
+        List<Door> doors = room.getSafeDoorOrder();
+        if (!doors.isEmpty()) {
+            System.out.println("Порядок відкривання дверей, щоб герой вижив: " + doors);
         }
         else {
             System.out.println("Герой помер");

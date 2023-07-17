@@ -82,9 +82,7 @@ public class Room {
         for (Door monsterDoor : monstersDoors){
             monsterHps += monsterDoor.getCharacter().getHp();
         }
-
         int totalHp = hero.getHp() + artifactHps - monsterHps;
-
         return totalHp >= 0;
 
     }

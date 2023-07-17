@@ -1,0 +1,88 @@
+{INFO } 2023-07-13 15:52:52.253 Room:40-start method describeDoors 
+{INFO } 2023-07-13 15:52:52.269 Room:45-finish method describeDoors 
+{INFO } 2023-07-13 15:52:52.269 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-13 15:52:52.269 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-13 15:52:52.269 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-13 15:52:52.269 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-13 15:53:50.629 Room:40-start method describeDoors 
+{INFO } 2023-07-13 15:53:50.644 Room:45-finish method describeDoors 
+{INFO } 2023-07-13 15:53:50.644 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-13 15:53:50.644 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-13 15:53:50.644 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-13 15:53:50.660 Room:66-finish method getSafeDoorOrder - heroIsAlive 
+{INFO } 2023-07-13 15:53:50.660 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-13 15:53:50.660 Room:66-finish method getSafeDoorOrder - heroIsAlive 
+{INFO } 2023-07-17 13:09:31.835 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:09:31.846 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:09:31.846 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:31.847 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:31.849 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:09:31.849 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:09:48.129 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:09:48.145 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:09:48.145 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:48.145 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:48.145 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:09:48.145 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:09:57.433 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:09:57.440 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:09:57.441 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:57.443 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:09:57.443 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:09:57.445 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:10:10.908 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:10:10.914 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:10:10.915 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:10.917 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:10.917 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:10:10.918 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:10:21.158 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:10:21.163 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:10:21.164 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:21.164 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:21.165 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:10:21.165 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:10:38.766 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:10:38.766 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:10:38.766 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:38.766 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:38.766 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:10:38.766 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:10:53.376 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:10:53.384 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:10:53.385 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:53.386 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:10:53.387 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:10:53.388 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:11:10.575 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:11:10.581 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:11:10.582 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:11:10.582 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:11:10.583 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:11:10.583 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 13:11:23.430 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:11:23.437 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:11:23.437 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:11:23.438 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:11:23.439 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:11:23.440 Room:66-finish method getSafeDoorOrder - heroIsAlive 
+{INFO } 2023-07-17 13:11:23.440 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:11:23.442 Room:66-finish method getSafeDoorOrder - heroIsAlive 
+{INFO } 2023-07-17 13:24:45.705 Room:40-start method describeDoors 
+{INFO } 2023-07-17 13:24:45.720 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 13:24:45.720 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 13:24:45.720 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 13:24:45.720 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 13:24:45.720 Room:66-finish method getSafeDoorOrder - heroIsAlive 
+{INFO } 2023-07-17 14:20:48.401 Room:40-start method describeDoors 
+{INFO } 2023-07-17 14:20:48.401 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 14:20:48.417 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 14:20:48.417 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 14:20:48.417 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 14:20:48.417 Room:71-finish method getSafeDoorOrder - heroIsDead 
+{INFO } 2023-07-17 14:21:03.182 Room:40-start method describeDoors 
+{INFO } 2023-07-17 14:21:03.182 Room:45-finish method describeDoors 
+{INFO } 2023-07-17 14:21:03.182 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-17 14:21:03.182 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-17 14:21:03.182 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-17 14:21:03.198 Room:66-finish method getSafeDoorOrder - heroIsAlive 
