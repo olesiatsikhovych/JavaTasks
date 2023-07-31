@@ -1,0 +1,19 @@
+{INFO } 2023-07-31 15:53:49.189 MyBinaryTree:56-start method put 
+{INFO } 2023-07-31 15:53:49.199 MyBinaryTree:88-finish method put 
+{INFO } 2023-07-31 15:54:01.237 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 15:54:59.011 MyBinaryTree:56-start method put 
+{INFO } 2023-07-31 15:55:13.623 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 15:55:13.623 MyBinaryTree:49-finish method get 
+{INFO } 2023-07-31 15:56:17.759 MyBinaryTree:56-start method put 
+{INFO } 2023-07-31 15:56:17.775 MyBinaryTree:88-finish method put 
+{INFO } 2023-07-31 15:56:21.854 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 15:56:44.104 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 15:59:20.533 MyBinaryTree:56-start method put 
+{INFO } 2023-07-31 15:59:20.596 MyBinaryTree:88-finish method put 
+{INFO } 2023-07-31 15:59:29.856 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 16:02:53.808 MyBinaryTree:57-start method put 
+{INFO } 2023-07-31 16:02:53.823 MyBinaryTree:89-finish method put 
+{INFO } 2023-07-31 16:02:57.864 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 16:02:57.873 MyBinaryTree:41-finish method get with result: Cat{name='1', age=1} 
+{INFO } 2023-07-31 16:03:07.539 MyBinaryTree:35-start method get 
+{INFO } 2023-07-31 16:03:07.539 MyBinaryTree:51-finish method get with null result 
