@@ -1,0 +1,6 @@
+{INFO } 2023-07-11 18:43:55.846 Room:40-start method describeDoors 
+{INFO } 2023-07-11 18:43:55.877 Room:45-finish method describeDoors 
+{INFO } 2023-07-11 18:43:55.877 Room:50-start method countDeadlyDoors 
+{INFO } 2023-07-11 18:43:55.877 Room:57-finish method countDeadlyDoors 
+{INFO } 2023-07-11 18:43:55.877 Room:62-start method getSafeDoorOrder 
+{INFO } 2023-07-11 18:43:55.877 Room:71-finish method getSafeDoorOrder - heroIsDead 
