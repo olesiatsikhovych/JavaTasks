@@ -1,0 +1,38 @@
+{INFO } 2023-08-16 11:16:44.496 Main:17-Max result is write to file 
+{INFO } 2023-08-16 11:19:05.148 Main:17-Max result is written to file 
+{INFO } 2023-08-16 11:19:05.157 Main:20-Arifmetical mean is written to file 
+{INFO } 2023-09-08 11:30:57.021 ConsoleController:29-Input words: [pp, ll, hh] 
+{INFO } 2023-09-08 11:31:48.804 ConsoleController:29-Input words: [mom, dad, mam, kgkgk, fefe] 
+{INFO } 2023-09-08 11:47:35.749 ConsoleController:24-Input words: [ya, tu, tu] 
+{INFO } 2023-09-08 14:33:33.815 ConsoleController:24-Input words: [qq, aa, ss] 
+{INFO } 2023-09-08 14:33:40.157 ConsoleController:60-You choose LIST OF UNIQUE WORDS 
+{INFO } 2023-09-08 14:34:27.214 ConsoleController:24-Input words: [dd, f, f] 
+{INFO } 2023-09-08 14:34:30.949 ConsoleController:61-You choose LIST OF UNIQUE WORDS 
+{INFO } 2023-09-08 14:37:26.633 ConsoleController:24-Input words: [rrr, hhh, bbb] 
+{INFO } 2023-09-08 14:37:29.976 ConsoleController:60-You choose LIST OF UNIQUE WORDS 
+{INFO } 2023-09-08 14:41:29.675 ConsoleController:24-Input words: [k, o, o] 
+{INFO } 2023-09-08 14:41:34.289 ConsoleController:60-List of unique words was chose 
+{INFO } 2023-09-08 14:41:54.239 ConsoleController:66-Sorted list of unique words was chose 
+{INFO } 2023-09-08 14:41:57.394 ConsoleController:72- 
+{INFO } 2023-09-09 14:11:41.335 ConsoleController:24-Input words: [hui, tu, ya, tu] 
+{INFO } 2023-09-09 14:11:45.652 ConsoleController:59-List of unique words was chose 
+{INFO } 2023-09-09 14:11:45.652 ConsoleController:62-List of unique words was finished 
+{INFO } 2023-09-09 14:12:13.069 ConsoleController:66-Sorted list of unique words was chose 
+{INFO } 2023-09-09 14:12:13.069 ConsoleController:69-Sorted list of unique words was finished 
+{INFO } 2023-09-09 14:12:15.706 ConsoleController:73-Number of words was chose 
+{INFO } 2023-09-09 14:12:15.709 ConsoleController:76-Number of words was finished 
+{INFO } 2023-09-09 14:12:20.884 ConsoleController:80-Number of each character was chose 
+{INFO } 2023-09-09 14:12:20.884 ConsoleController:83-Number of each character was finished 
+{INFO } 2023-09-09 14:16:10.406 ConsoleController:24-Input words: [vhyk, lkjh, kjhg] 
+{INFO } 2023-09-09 14:16:13.122 ConsoleController:59-List of unique words started 
+{INFO } 2023-09-09 14:16:13.122 ConsoleController:62-List of unique words finished 
+{INFO } 2023-09-09 14:16:15.695 ConsoleController:66-Sorted list of unique words started 
+{INFO } 2023-09-09 14:16:15.695 ConsoleController:69-Sorted list of unique words finished 
+{INFO } 2023-09-09 14:16:18.112 ConsoleController:73-Number of words started 
+{INFO } 2023-09-09 14:16:18.128 ConsoleController:76-Number of words finished 
+{ERROR} 2023-09-09 14:16:21.518 ConsoleController:53-Incorrect command 
+{INFO } 2023-09-09 14:16:40.462 ConsoleController:80-Number of each character started 
+{INFO } 2023-09-09 14:16:40.462 ConsoleController:83-Number of each character finished 
+{ERROR} 2023-09-09 14:16:40.541 ConsoleController:53-Incorrect command 
+{INFO } 2023-09-09 14:17:02.372 ConsoleController:80-Number of each character started 
+{INFO } 2023-09-09 14:17:02.372 ConsoleController:83-Number of each character finished 

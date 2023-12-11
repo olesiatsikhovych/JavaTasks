@@ -1,0 +1,2 @@
+30 - Max result
+20 - Arifmetical mean
