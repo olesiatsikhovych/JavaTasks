@@ -1,0 +1,34 @@
+Configuration:
+  status: warn
+  name: Log4j2_Config
+  properties:
+    property:
+      name: log-path
+      value: logs
+      #__________________________________
+  appenders:
+    Console:
+      - name: STDOUT
+        PatternLayout:
+          Pattern: "%highlight{%-5level}{ERROR=bg_red} %style{%date{yyyy-MM-dd
+        HH:mm:ss.SSS}}{blue} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+        Filters:
+          ThresholdFilter:
+            level: info
+
+    File:
+      name: File
+      fileName: ${log-path}/logFile.log
+      PatternLayout:
+        Pattern: "{%-5level} %style{%date{yyyy-MM-dd
+                         HH:mm:ss.SSS}} %class{1}:%L-%highlight{%msg} %xEx{short}%n"
+      Filters:
+        ThresholdFilter:
+          level: info
+
+  Loggers:
+    Root:
+      level: all
+      AppenderRef:
+        - ref: STDOUT
+        - ref: File
