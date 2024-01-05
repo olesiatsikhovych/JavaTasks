@@ -24,5 +24,4 @@ public class MyMathTest {
         int result = math.minus(12, 10);
         assertEquals(2, result);
     }
-
 }

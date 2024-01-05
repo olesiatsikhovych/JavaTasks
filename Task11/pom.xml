@@ -48,8 +48,6 @@
             <artifactId>jacoco-maven-plugin</artifactId>
             <version>0.7.7.201606060606</version>
         </dependency>
-
-
     </dependencies>
 
     <build>
@@ -65,7 +63,6 @@
                         </goals>
                     </execution>
                     <execution>
-                        <!--<id>jacoco-check</id>-->
                         <id>check-coverage</id>
                         <phase>verify</phase>
                         <goals>
@@ -74,7 +71,6 @@
                         <configuration>
                             <rules>
                                 <rule>
-                                    <!--<element>PACKAGE</element>-->
                                     <element>BUNDLE</element>
                                     <limits>
                                         <limit>
