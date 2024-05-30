@@ -43,3 +43,7 @@
 {INFO } 2023-11-08 17:09:41.834 ConsoleController:213-Method 'find the longest word which is palindrome' finished 
 {INFO } 2023-11-08 17:09:48.896 ConsoleController:217-Method 'change words of length by substring' started 
 {INFO } 2023-11-08 17:10:18.629 ConsoleController:226-Method 'change words of length by substring' finished 
+{INFO } 2024-05-30 15:12:07.568 ConsoleController:82-Method'check entered word' started 
+{INFO } 2024-05-30 15:12:23.819 ConsoleController:85-Method'check entered word' finished 
+{INFO } 2024-05-30 15:12:38.303 ConsoleController:96-Method 'replace all vowel words' started 
+{INFO } 2024-05-30 15:12:54.912 ConsoleController:99-Method 'replace all vowel words' finished 

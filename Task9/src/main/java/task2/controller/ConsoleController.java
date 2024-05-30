@@ -110,7 +110,7 @@ public class ConsoleController implements Controller{
         logger.info("Method 'find words from question sentence' started");
         System.out.println("What word length do you want to get?");
         int wordLength = Integer.parseInt(scanner.nextLine());
-        System.out.println("You want to get words wich created from " + wordLength + " letters...");
+        System.out.println("You want to get words which created from " + wordLength + " letters...");
         List<String> uniqueQuestionWords = model.findWordsFromQuestionSentence(wordLength);
         if(uniqueQuestionWords.isEmpty()) {
             System.out.println("There is no such long word");

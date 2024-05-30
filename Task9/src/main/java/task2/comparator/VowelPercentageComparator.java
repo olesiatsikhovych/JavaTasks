@@ -13,7 +13,6 @@ public class VowelPercentageComparator implements Comparator<String> {
     private double calculateVowelPercentage(String s){
         int totalCharacters = s.length();
         System.out.printf("For word: %s total characters is: %s \n",s, totalCharacters);
-//        int vowelCount = s.replaceAll("([^aeiouAEIOU0-9\\W]+)", "").length();
         int vowelCount = s.replaceAll("[^aeiouyAEIOUY]", "").length();
         System.out.printf("For word: %s vowel characters is: %s \n",s, vowelCount);
         double vowelPercentage = (double)vowelCount / totalCharacters;
