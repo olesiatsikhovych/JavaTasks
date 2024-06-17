@@ -1,0 +1,20 @@
+{INFO } 2024-06-11 14:19:46.668 ConsoleController:92-Start loading old game 
+{INFO } 2024-06-11 14:20:22.722 ConsoleController:97-The old game is loaded 
+{INFO } 2024-06-11 14:21:13.802 ConsoleController:92-Start loading old game 
+{INFO } 2024-06-11 14:21:13.820 ConsoleController:94-The old game is loaded 
+{INFO } 2024-06-11 14:30:19.651 ConsoleController:101-Start hit monster 
+{INFO } 2024-06-11 14:30:19.659 ConsoleController:103-Monster is killed 
+{INFO } 2024-06-11 14:31:07.691 ConsoleController:92-Start loading old game 
+{INFO } 2024-06-11 14:31:07.703 ConsoleController:94-The old game is loaded 
+{INFO } 2024-06-11 14:34:23.937 ConsoleController:92-Method 'loadGame' started 
+{INFO } 2024-06-11 14:34:23.958 ConsoleController:94-Method 'loadGame' finished 
+{INFO } 2024-06-11 14:34:53.880 ConsoleController:101-Method 'hitMonster' started 
+{INFO } 2024-06-11 14:34:53.881 ConsoleController:103-Method 'hitMonster' finished 
+{INFO } 2024-06-11 14:38:43.649 ConsoleController:101-Method 'hitMonster' started 
+{INFO } 2024-06-11 14:38:43.656 ConsoleController:103-Method 'hitMonster' finished 
+{INFO } 2024-06-11 14:38:50.183 ConsoleController:107-Method 'collectTreasures' started 
+{INFO } 2024-06-11 14:38:50.184 ConsoleController:109-Method 'collectTreasures' finished 
+{INFO } 2024-06-11 14:39:00.270 ConsoleController:113-Method 'saveGame' started 
+{INFO } 2024-06-11 14:39:00.278 ConsoleController:115-Method 'saveGame' finished 
+{INFO } 2024-06-11 14:39:10.446 ConsoleController:92-Method 'loadGame' started 
+{INFO } 2024-06-11 14:39:10.454 ConsoleController:94-Method 'loadGame' finished 

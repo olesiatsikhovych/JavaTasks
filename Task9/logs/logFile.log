@@ -1,0 +1,49 @@
+{INFO } 2023-11-08 15:57:43.216 ConsoleController:90-Word count started 
+{INFO } 2023-11-08 15:57:43.263 ConsoleController:93-Word count finished 
+{INFO } 2023-11-08 15:59:50.308 ConsoleController:97-Sort sentence increasing started 
+{INFO } 2023-11-08 15:59:50.323 ConsoleController:100-Sort sentence increasing finished 
+{INFO } 2023-11-08 16:01:26.997 ConsoleController:104-Find unique word started 
+{INFO } 2023-11-08 16:01:27.044 ConsoleController:107-Find unique word finished 
+{INFO } 2023-11-08 16:02:57.932 ConsoleController:104-Find unique word started 
+{INFO } 2023-11-08 16:02:57.979 ConsoleController:107-Find unique word finished 
+{INFO } 2023-11-08 16:04:38.977 ConsoleController:104-Find unique word started 
+{INFO } 2023-11-08 16:04:39.040 ConsoleController:106-Find unique word finished 
+{INFO } 2023-11-08 16:07:06.773 ConsoleController:110-Find words from question sentence started 
+{INFO } 2023-11-08 16:07:15.710 ConsoleController:121-Find words from question sentence finished 
+{INFO } 2023-11-08 16:07:39.381 ConsoleController:110-Find words from question sentence started 
+{INFO } 2023-11-08 16:07:43.444 ConsoleController:121-Find words from question sentence finished 
+{INFO } 2023-11-08 16:18:36.760 ConsoleController:125-Method 'change first word with longest' started 
+{INFO } 2023-11-08 16:18:36.776 ConsoleController:128-Method 'change first word with longest' finished 
+{INFO } 2023-11-08 16:24:02.692 ConsoleController:132-Method 'sort words alphabetical' started  
+{INFO } 2023-11-08 16:24:02.770 ConsoleController:135-Method 'sort words alphabetical' finished  
+{INFO } 2023-11-08 17:04:44.590 ConsoleController:90-Method 'word count' started 
+{INFO } 2023-11-08 17:04:44.622 ConsoleController:93-Method 'word count' finished 
+{INFO } 2023-11-08 17:04:52.138 ConsoleController:97-Method 'sort sentence increasing' started 
+{INFO } 2023-11-08 17:04:52.153 ConsoleController:100-Method 'sort sentence increasing' finished 
+{INFO } 2023-11-08 17:04:59.809 ConsoleController:104-Method 'find unique word' started 
+{INFO } 2023-11-08 17:04:59.840 ConsoleController:106-Method 'find unique word' finished 
+{INFO } 2023-11-08 17:05:05.809 ConsoleController:110-Method 'find words from question sentence' started 
+{INFO } 2023-11-08 17:05:08.934 ConsoleController:121-Method 'find words from question sentence' finished 
+{INFO } 2023-11-08 17:05:31.012 ConsoleController:125-Method 'change first word with longest' started 
+{INFO } 2023-11-08 17:05:31.012 ConsoleController:128-Method 'change first word with longest' finished 
+{INFO } 2023-11-08 17:05:40.433 ConsoleController:132-Method 'sort words alphabetical' started  
+{INFO } 2023-11-08 17:05:40.465 ConsoleController:135-Method 'sort words alphabetical' finished  
+{INFO } 2023-11-08 17:05:54.933 ConsoleController:139-Method 'sort words by percentage of vowels' started 
+{INFO } 2023-11-08 17:05:56.121 ConsoleController:142-Method 'sort words by percentage of vowels' finished 
+{INFO } 2023-11-08 17:06:56.447 ConsoleController:146-Method 'sort words that start with vowel' started 
+{INFO } 2023-11-08 17:06:56.447 ConsoleController:149-Method 'sort words that start with vowel' finished 
+{INFO } 2023-11-08 17:08:01.054 ConsoleController:153-Method'sort all words by numbers of giving letter' started 
+{INFO } 2023-11-08 17:08:14.226 ConsoleController:159-Method'sort all words by numbers of giving letter' finished 
+{INFO } 2023-11-08 17:08:44.084 ConsoleController:163- Method 'find number of occurs for all given words' started 
+{INFO } 2023-11-08 17:08:58.584 ConsoleController:178- Method 'find number of occurs for all given words' finished 
+{INFO } 2023-11-08 17:09:05.131 ConsoleController:182-Method 'delete substring with max length' started 
+{INFO } 2023-11-08 17:09:30.631 ConsoleController:201-Method 'delete words of given length with consostant letter' started 
+{INFO } 2023-11-08 17:09:33.443 ConsoleController:206-Method 'delete words of given length with consostant letter' finished 
+{INFO } 2023-11-08 17:09:41.787 ConsoleController:210-Method 'find the longest word which is palindrome' started 
+{INFO } 2023-11-08 17:09:41.834 ConsoleController:213-Method 'find the longest word which is palindrome' finished 
+{INFO } 2023-11-08 17:09:48.896 ConsoleController:217-Method 'change words of length by substring' started 
+{INFO } 2023-11-08 17:10:18.629 ConsoleController:226-Method 'change words of length by substring' finished 
+{INFO } 2024-05-30 15:12:07.568 ConsoleController:82-Method'check entered word' started 
+{INFO } 2024-05-30 15:12:23.819 ConsoleController:85-Method'check entered word' finished 
+{INFO } 2024-05-30 15:12:38.303 ConsoleController:96-Method 'replace all vowel words' started 
+{INFO } 2024-05-30 15:12:54.912 ConsoleController:99-Method 'replace all vowel words' finished 
