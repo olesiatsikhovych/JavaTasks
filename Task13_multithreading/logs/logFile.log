@@ -1,0 +1,619 @@
+{INFO } 2024-10-09 12:06:48.850 MyPipe:22-Starting parallel processing in TextGenerator... 
+{INFO } 2024-10-09 12:09:08.951 MyPipe:22-Starting parallel processing in TextGenerator... 
+{INFO } 2024-10-09 12:11:54.835 MyPipe:22-Starting parallel processing in TextGenerator... 
+{INFO } 2024-10-09 12:11:54.844 MyPipe:30-Reading finished, waiting for thread to join 
+{INFO } 2024-10-09 12:11:54.845 MyPipe:36-Parallel processing finished, thread joined to main 
+{INFO } 2024-10-14 12:52:57.038 MyPipe:22-Starting parallel processing in TextGenerator... 
+{INFO } 2024-10-14 12:52:57.046 MyPipe:30-Reading finished, waiting for thread to join 
+{INFO } 2024-10-14 12:52:57.047 MyPipe:36-Parallel processing finished, thread joined to main 
+{INFO } 2024-10-14 13:05:13.070 MyPipe:22-Starting parallel processing in TextGenerator... 
+{INFO } 2024-10-14 13:05:13.076 TextGenerator:21-Parallel procecing started: Thread Thread-0 
+{INFO } 2024-10-14 13:05:13.078 TextGenerator:30-Parallel processing finished: Thread Thread-0 
+{INFO } 2024-10-14 13:05:13.080 MyPipe:30-Reading finished, waiting for thread to join 
+{INFO } 2024-10-14 13:05:13.083 MyPipe:36-Parallel processing finished, thread joined to main 
+{INFO } 2024-10-14 13:06:24.454 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-14 13:06:24.460 TextGenerator:21-Parallel procecing started: Thread Thread-0 
+{INFO } 2024-10-14 13:06:24.462 TextGenerator:30-Parallel processing finished: Thread Thread-0 
+{INFO } 2024-10-14 13:06:24.463 MyPipe:30-Reading finished, waiting for thread to join 
+{INFO } 2024-10-14 13:06:24.464 MyPipe:36-Parallel processing finished, thread joined to main 
+{INFO } 2024-10-14 13:07:38.345 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-14 13:07:38.351 TextGenerator:21-Parallel procecing started: Thread Thread-0 
+{INFO } 2024-10-14 13:07:38.355 MyPipe:30-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-14 13:07:38.355 TextGenerator:30-Parallel processing finished: Thread Thread-0 
+{INFO } 2024-10-14 13:07:38.356 MyPipe:36-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-14 13:10:53.584 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-14 13:10:53.590 TextGenerator:21-Parallel procecing started: Thread Thread-0 
+{INFO } 2024-10-14 13:10:53.592 TextGenerator:30-Parallel processing finished: Thread Thread-0 
+{INFO } 2024-10-14 13:10:53.594 MyPipe:30-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-14 13:10:53.599 MyPipe:36-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-14 15:29:35.486 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread Thread-4 
+{INFO } 2024-10-14 15:29:35.486 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread Thread-1 
+{INFO } 2024-10-14 15:29:35.486 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread Thread-0 
+{INFO } 2024-10-14 15:29:35.486 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread Thread-2 
+{INFO } 2024-10-14 15:29:35.486 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread Thread-3 
+{INFO } 2024-10-14 15:29:37.517 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread Thread-3 
+{INFO } 2024-10-14 15:29:37.519 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread Thread-2 
+{INFO } 2024-10-14 15:29:37.520 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread Thread-0 
+{INFO } 2024-10-14 15:29:37.523 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread Thread-1 
+{INFO } 2024-10-14 15:29:37.524 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread Thread-4 
+{INFO } 2024-10-14 15:32:18.347 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 15:32:18.345 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 15:32:18.345 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 15:32:18.348 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 15:32:18.345 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 15:32:20.366 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 15:32:20.366 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 15:32:20.367 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 15:32:20.368 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 15:32:20.367 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 15:32:46.348 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-14 15:32:46.353 TextGenerator:21-Parallel procecing started: Thread Thread-0 
+{INFO } 2024-10-14 15:32:46.355 TextGenerator:30-Parallel processing finished: Thread Thread-0 
+{INFO } 2024-10-14 15:32:46.356 MyPipe:30-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-14 15:32:46.357 MyPipe:36-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-14 15:34:45.279 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-14 15:34:45.285 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-14 15:34:45.287 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-14 15:34:45.289 MyPipe:30-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-14 15:34:45.289 MyPipe:36-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-14 15:41:46.216 ModelLogic:23-Thead 1 started: Thread-0 
+{INFO } 2024-10-14 15:41:46.235 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:41:46.375 ModelLogic:32-Thread 1 finished: Thread-0 
+{INFO } 2024-10-14 15:41:46.376 ModelLogic:50-Thread 2 finished: Thread-1 
+{INFO } 2024-10-14 15:47:11.171 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:47:11.181 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:47:11.278 ModelLogic:32-Thread 1 finished: Thread-0 
+{INFO } 2024-10-14 15:47:11.279 ModelLogic:50-Thread 2 finished: Thread-1 
+{INFO } 2024-10-14 15:48:35.442 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:48:35.451 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:48:35.583 ModelLogic:32-Thread 1 finished and joined to main thread: Thread-0 
+{INFO } 2024-10-14 15:48:35.584 ModelLogic:50-Thread 2 finished and joined to main thread: Thread-1 
+{INFO } 2024-10-14 15:49:53.692 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:49:53.703 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:49:53.819 ModelLogic:32-Thread 1 finished and joined to main thread: Thread-0 
+{INFO } 2024-10-14 15:49:53.819 ModelLogic:50-Thread 2 finished and joined to main thread: Thread-1 
+{INFO } 2024-10-14 15:49:53.819 ModelLogic:62-Thread 1 joined to main thread 
+{INFO } 2024-10-14 15:50:38.274 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:50:38.282 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:50:38.381 ModelLogic:32-Thread 1 finished and joined to main thread: Thread-0 
+{INFO } 2024-10-14 15:50:38.382 ModelLogic:62-Thread 1 joined to main thread main 
+{INFO } 2024-10-14 15:50:38.382 ModelLogic:50-Thread 2 finished and joined to main thread: Thread-1 
+{INFO } 2024-10-14 15:52:16.920 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:52:16.926 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:52:17.020 ModelLogic:32-Thread 1 finished: Thread-0 
+{INFO } 2024-10-14 15:52:17.020 ModelLogic:50-Thread 2 finished: Thread-1 
+{INFO } 2024-10-14 15:52:17.021 ModelLogic:62-Thread 1 joined to main thread main 
+{INFO } 2024-10-14 15:53:50.263 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:53:50.272 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:53:50.394 ModelLogic:32-Thread 1 finished: Thread-0 
+{INFO } 2024-10-14 15:53:50.394 ModelLogic:50-Thread 2 finished: Thread-1 
+{INFO } 2024-10-14 15:53:50.395 ModelLogic:62-Thread 1 joined to main thread: Thread- main 
+{INFO } 2024-10-14 15:53:50.399 ModelLogic:64-Thread 2 joined to ain thread: Thread- main 
+{INFO } 2024-10-14 15:54:34.228 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-14 15:54:34.246 ModelLogic:41-Thread 2 started: Thread-1 
+{INFO } 2024-10-14 15:54:34.416 ModelLogic:32-Thread 1 finished: Thread-0 
+{INFO } 2024-10-14 15:54:34.417 ModelLogic:62-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-14 15:54:34.417 ModelLogic:50-Thread 2 finished: Thread-1 
+{INFO } 2024-10-14 15:54:34.418 ModelLogic:64-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-14 17:01:04.985 ModelLogic:76-Starting Fibonaacci sequence calculation in parallel.main 
+{INFO } 2024-10-14 17:01:05.005 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:01:05.001 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:01:05.000 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:01:04.997 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:01:04.995 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:01:07.010 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:01:07.012 ModelLogic:86-ThreadThread-0has finished main 
+{INFO } 2024-10-14 17:01:07.013 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:01:07.013 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:01:07.016 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:01:07.020 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:01:07.025 ModelLogic:86-ThreadThread-1has finished main 
+{INFO } 2024-10-14 17:01:07.027 ModelLogic:86-ThreadThread-2has finished main 
+{INFO } 2024-10-14 17:01:07.027 ModelLogic:86-ThreadThread-3has finished main 
+{INFO } 2024-10-14 17:01:07.027 ModelLogic:86-ThreadThread-4has finished main 
+{INFO } 2024-10-14 17:01:07.027 ModelLogic:91-All Fibonacci sequence threads have copleted.  main 
+{INFO } 2024-10-14 17:02:57.483 ModelLogic:76-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-14 17:02:57.493 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:02:57.492 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:02:57.492 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:02:57.495 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:02:57.494 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:02:59.503 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:02:59.505 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:02:59.509 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:02:59.512 ModelLogic:86-ThreadThread-0 has finished. Thread-main 
+{INFO } 2024-10-14 17:02:59.515 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:02:59.521 ModelLogic:86-ThreadThread-1 has finished. Thread-main 
+{INFO } 2024-10-14 17:02:59.523 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:02:59.523 ModelLogic:86-ThreadThread-2 has finished. Thread-main 
+{INFO } 2024-10-14 17:02:59.524 ModelLogic:86-ThreadThread-3 has finished. Thread-main 
+{INFO } 2024-10-14 17:02:59.525 ModelLogic:86-ThreadThread-4 has finished. Thread-main 
+{INFO } 2024-10-14 17:02:59.526 ModelLogic:91-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-14 17:04:09.818 ModelLogic:76-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-14 17:04:09.839 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:04:09.834 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:04:09.832 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:04:09.829 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:04:09.827 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:04:11.842 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-14 17:04:11.843 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-14 17:04:11.845 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-14 17:04:11.847 ModelLogic:86-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-14 17:04:11.849 ModelLogic:86-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-14 17:04:11.846 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-14 17:04:11.846 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-14 17:04:11.858 ModelLogic:86-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-14 17:04:11.860 ModelLogic:86-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-14 17:04:11.862 ModelLogic:86-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-14 17:04:11.866 ModelLogic:91-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-14 17:08:30.252 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-2 
+{INFO } 2024-10-14 17:08:30.252 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-1 
+{INFO } 2024-10-14 17:08:30.252 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-4 
+{INFO } 2024-10-14 17:08:30.252 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-3 
+{INFO } 2024-10-14 17:08:30.252 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-5 
+{INFO } 2024-10-14 17:08:32.274 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-5 
+{INFO } 2024-10-14 17:08:32.275 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-1 
+{INFO } 2024-10-14 17:08:32.277 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-4 
+{INFO } 2024-10-14 17:08:32.277 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-3 
+{INFO } 2024-10-14 17:08:32.283 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-2 
+{INFO } 2024-10-14 17:11:36.717 ModelLogic:97-Starting Fibonacci sequence calculation with Executors. Thread-main 
+{INFO } 2024-10-14 17:11:36.728 ModelLogic:106-All Fibonacci executor threads have completed. Thread-main 
+{INFO } 2024-10-14 17:11:36.744 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-5 
+{INFO } 2024-10-14 17:11:36.742 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-4 
+{INFO } 2024-10-14 17:11:36.738 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-3 
+{INFO } 2024-10-14 17:11:36.735 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-2 
+{INFO } 2024-10-14 17:11:36.734 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread pool-2-thread-1 
+{INFO } 2024-10-14 17:11:38.751 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-2 
+{INFO } 2024-10-14 17:11:38.754 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-3 
+{INFO } 2024-10-14 17:11:38.752 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-1 
+{INFO } 2024-10-14 17:11:38.758 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-5 
+{INFO } 2024-10-14 17:11:38.759 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread pool-2-thread-4 
+{INFO } 2024-10-14 17:16:09.209 ModelLogic:114-Starting Fibonacci sequence calculation with Callable. Thread-main 
+{INFO } 2024-10-14 17:16:09.223 ModelLogic:132-All Callable tasks for Fibonacci sequence have completed. Thread-main 
+{INFO } 2024-10-14 17:21:12.964 ModelLogic:114-Starting Fibonacci sequence calculation with Callable. Thread-main 
+{INFO } 2024-10-14 17:21:12.979 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-14 17:21:12.988 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-14 17:21:12.978 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-14 17:21:12.990 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-14 17:21:12.977 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-14 17:21:12.992 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-14 17:21:12.994 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-14 17:21:12.995 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-14 17:21:12.981 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-14 17:21:12.998 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-14 17:21:13.000 ModelLogic:132-All Callable tasks for Fibonacci sequence have completed. Thread-main 
+{INFO } 2024-10-14 17:25:28.750 ModelLogic:114-Starting Fibonacci sequence calculation with Callable. Thread-main 
+{INFO } 2024-10-14 17:25:28.766 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-14 17:25:28.776 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-14 17:25:28.764 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-14 17:25:28.777 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-14 17:25:28.763 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-14 17:25:28.779 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-14 17:25:28.781 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-14 17:25:28.783 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-14 17:25:28.767 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-14 17:25:28.785 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-14 17:25:28.788 ModelLogic:132-All Callable tasks for Fibonacci sequence have completed. Thread-main 
+{INFO } 2024-10-15 12:33:42.024 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:33:42.036 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:33:42.096 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:33:42.096 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:33:42.098 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:33:42.102 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:34:30.930 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:34:30.939 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:34:30.998 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:34:30.999 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:34:31.002 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:34:31.006 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:35:23.314 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:35:23.337 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:35:23.432 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:35:23.433 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:35:23.437 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:35:23.440 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:37:11.449 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:37:11.456 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:37:11.507 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:37:11.508 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:37:11.509 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:37:11.514 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:41:25.269 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:41:25.279 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:41:25.332 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:41:25.333 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:41:25.335 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:41:25.338 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:43:54.463 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:43:54.472 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:43:54.528 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:43:54.529 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:43:54.530 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:43:54.535 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:44:34.319 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:44:34.319 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:44:34.377 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:44:34.378 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:44:34.379 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:44:34.385 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 12:45:35.373 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 12:45:35.423 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 12:45:35.478 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 12:45:35.479 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 12:45:35.480 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 12:45:35.484 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 14:16:04.232 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-15 14:16:04.244 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-15 14:16:04.307 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-15 14:16:04.308 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-15 14:16:04.309 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-15 14:16:04.313 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-15 14:16:04.430 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 14:16:04.444 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:16:04.447 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:16:04.449 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:16:04.451 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-6 
+{INFO } 2024-10-15 14:16:04.460 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-5 
+{INFO } 2024-10-15 14:16:06.463 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:16:06.465 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:16:06.466 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:16:06.467 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:06.467 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:06.469 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:06.481 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-5 
+{INFO } 2024-10-15 14:16:06.484 ModelLogic:84-Thread-5 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:06.486 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-6 
+{INFO } 2024-10-15 14:16:06.487 ModelLogic:84-Thread-6 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:06.487 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 14:16:36.331 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 14:16:36.343 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:16:36.341 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:16:36.345 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:16:36.339 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:16:36.346 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:16:38.353 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:16:38.354 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:16:38.354 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:16:38.356 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:38.357 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:38.357 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:16:38.356 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:16:38.360 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:38.360 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:38.361 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 14:16:38.362 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 14:18:06.041 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 14:18:06.052 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:18:06.056 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:18:06.059 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:18:06.061 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:18:06.071 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:18:08.064 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:18:08.066 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 14:18:08.068 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:18:08.072 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:18:08.079 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:18:08.081 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:18:08.082 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 14:18:08.084 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 14:18:08.085 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 14:18:08.086 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 14:18:08.086 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 14:19:41.936 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 14:19:41.951 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:19:41.947 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:19:41.951 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:19:41.955 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:19:41.958 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:19:43.961 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:19:43.960 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:19:43.963 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:19:43.966 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:19:43.969 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 14:19:43.970 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:19:43.976 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 14:19:43.978 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 14:19:43.979 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 14:19:43.981 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 14:19:43.982 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 14:21:31.836 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 14:21:31.848 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:21:31.849 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:21:31.846 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:21:31.846 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:21:31.852 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:21:33.865 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 14:21:33.869 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 14:21:33.870 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 14:21:33.874 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 14:21:33.881 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 14:21:33.883 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 14:21:33.889 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 14:21:33.891 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 14:21:33.891 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 14:21:33.892 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 14:21:33.893 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 16:03:38.421 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 16:03:38.447 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:03:38.443 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:03:38.441 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:03:38.439 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:03:38.438 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:03:40.463 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:03:40.464 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:03:40.466 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:03:40.465 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:03:40.468 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:03:40.468 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 16:03:40.473 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 16:03:40.474 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 16:03:40.476 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 16:03:40.478 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 16:03:40.480 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 16:07:47.678 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:07:49.703 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:08:26.616 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:08:28.714 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:09:14.717 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 16:09:14.737 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:09:14.733 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:09:14.731 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:09:14.728 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:09:14.727 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:09:16.750 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:09:16.751 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 16:09:16.753 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:09:16.753 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:09:16.754 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:09:16.754 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:09:16.756 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 16:09:16.756 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 16:09:16.757 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 16:09:16.757 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 16:09:16.758 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 16:11:11.716 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:11:13.743 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:14:50.806 ModelLogic:74-Starting Fibonaacci sequence calculation in parallel. Thread-main 
+{INFO } 2024-10-15 16:14:50.818 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:14:50.813 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:14:50.818 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:14:50.813 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:14:50.815 FibonacciSequence:27-Thread started for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:14:52.828 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-2 
+{INFO } 2024-10-15 16:14:52.830 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-3 
+{INFO } 2024-10-15 16:14:52.833 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-4 
+{INFO } 2024-10-15 16:14:52.836 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-1 
+{INFO } 2024-10-15 16:14:52.835 FibonacciSequence:41-Thread finished for Fibonacci calculation: Thread-0 
+{INFO } 2024-10-15 16:14:52.838 ModelLogic:84-Thread-0 has finished. Thread-main 
+{INFO } 2024-10-15 16:14:52.838 ModelLogic:84-Thread-1 has finished. Thread-main 
+{INFO } 2024-10-15 16:14:52.838 ModelLogic:84-Thread-2 has finished. Thread-main 
+{INFO } 2024-10-15 16:14:52.843 ModelLogic:84-Thread-3 has finished. Thread-main 
+{INFO } 2024-10-15 16:14:52.844 ModelLogic:84-Thread-4 has finished. Thread-main 
+{INFO } 2024-10-15 16:14:52.845 ModelLogic:89-All Fibonacci sequence threads have completed. Thread-main 
+{INFO } 2024-10-15 16:16:08.818 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:16:10.840 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:16:38.376 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:16:40.402 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-15 16:47:00.375 ModelLogic:95-Starting Fibonacci sequence calculation with Executors. Thread-main 
+{INFO } 2024-10-15 16:47:00.387 ModelLogic:104-All Fibonacci executor threads have completed. Thread-main 
+{INFO } 2024-10-15 16:47:00.401 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-pool-2-thread-5 
+{INFO } 2024-10-15 16:47:00.399 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-pool-2-thread-4 
+{INFO } 2024-10-15 16:47:00.396 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-pool-2-thread-3 
+{INFO } 2024-10-15 16:47:00.392 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-pool-2-thread-2 
+{INFO } 2024-10-15 16:47:00.391 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-pool-2-thread-1 
+{INFO } 2024-10-15 16:47:02.420 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-pool-2-thread-3 
+{INFO } 2024-10-15 16:47:02.421 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-pool-2-thread-4 
+{INFO } 2024-10-15 16:47:02.424 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-pool-2-thread-2 
+{INFO } 2024-10-15 16:47:02.429 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-pool-2-thread-5 
+{INFO } 2024-10-15 16:47:02.426 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-pool-2-thread-1 
+{INFO } 2024-10-15 16:49:21.320 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-15 16:49:23.347 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-15 16:49:43.812 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-15 16:49:45.834 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-15 18:54:21.331 ModelLogic:112-Starting Fibonacci sequence calculation with Callable. Thread-main 
+{INFO } 2024-10-15 18:54:21.357 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-15 18:54:21.358 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-5 
+{INFO } 2024-10-15 18:54:21.353 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-15 18:54:21.359 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-4 
+{INFO } 2024-10-15 18:54:21.349 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-15 18:54:21.359 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-3 
+{INFO } 2024-10-15 18:54:21.347 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-15 18:54:21.359 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-2 
+{INFO } 2024-10-15 18:54:21.345 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-15 18:54:21.359 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-pool-2-thread-1 
+{INFO } 2024-10-15 18:54:21.359 ModelLogic:130-All Callable tasks for Fibonacci sequence have completed. Thread-main 
+{INFO } 2024-10-15 18:57:09.921 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 18:57:09.938 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 18:57:55.021 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 18:57:55.030 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 19:02:49.703 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 19:02:49.712 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-15 19:09:32.923 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:09:32.934 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:09:32.937 MyPipe:30-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:09:32.938 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:09:32.939 MyPipe:36-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:10:36.154 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:10:36.165 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:10:36.167 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:10:36.167 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:10:36.167 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:11:09.959 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:11:09.985 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:11:09.988 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:11:09.989 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:11:09.991 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:20:04.376 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:20:04.391 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:20:04.393 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:20:04.395 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:20:04.397 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:20:22.310 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:20:22.322 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:20:22.328 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:20:22.328 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:20:22.332 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:23:19.731 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:23:19.750 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:23:19.753 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:23:19.756 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:23:19.758 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:24:58.040 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:24:58.049 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:24:58.051 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:24:58.053 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:24:58.055 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:26:33.133 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:26:33.147 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:26:33.149 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:26:33.152 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:26:33.153 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-15 19:27:06.244 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-15 19:27:06.255 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-15 19:27:06.258 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-15 19:27:06.261 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-15 19:27:06.263 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 10:41:51.136 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 10:41:53.150 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 10:42:12.044 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 10:42:12.054 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 10:42:28.386 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 10:42:30.395 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 10:42:58.417 ModelLogic:23-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 10:42:58.425 ModelLogic:40-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 10:42:58.473 ModelLogic:31-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 10:42:58.474 ModelLogic:48-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 10:42:58.475 ModelLogic:60-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 10:42:58.486 ModelLogic:62-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 10:43:17.023 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 10:43:17.049 TextGenerator:21-Parallel procecing started: Thread-0 
+{INFO } 2024-10-21 10:43:17.052 TextGenerator:30-Parallel processing finished: Thread-0 
+{INFO } 2024-10-21 10:43:17.052 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 10:43:17.062 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 11:26:18.389 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:26:20.415 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:26:20.519 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:26:20.522 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:26:20.592 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:26:22.597 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:26:22.636 ModelLogic:20-Thread 1 started: Thread-3 
+{INFO } 2024-10-21 11:26:22.641 ModelLogic:37-Thread 2 started: Thread-4 
+{INFO } 2024-10-21 11:26:22.677 ModelLogic:28-Thread 1 finished: Thread-3 
+{INFO } 2024-10-21 11:26:22.679 ModelLogic:45-Thread 2 finished: Thread-4 
+{INFO } 2024-10-21 11:26:22.680 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:26:22.681 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:26:22.743 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 11:26:22.764 TextGenerator:22-Parallel procecing started: Thread-5 
+{INFO } 2024-10-21 11:26:22.766 TextGenerator:30-Parallel processing finished: Thread-5 
+{INFO } 2024-10-21 11:26:22.768 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 11:26:22.769 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 11:27:40.742 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:27:40.752 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:27:40.803 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:27:40.804 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:27:40.805 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:27:40.810 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:32:17.189 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:32:17.294 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:32:17.348 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:32:17.349 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:32:17.350 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:32:17.354 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:32:50.990 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:32:53.012 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:32:53.129 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:32:53.132 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:32:53.182 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:32:55.183 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:32:55.216 ModelLogic:20-Thread 1 started: Thread-3 
+{INFO } 2024-10-21 11:32:55.221 ModelLogic:37-Thread 2 started: Thread-4 
+{INFO } 2024-10-21 11:32:55.260 ModelLogic:28-Thread 1 finished: Thread-3 
+{INFO } 2024-10-21 11:32:55.263 ModelLogic:45-Thread 2 finished: Thread-4 
+{INFO } 2024-10-21 11:32:55.263 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:32:55.264 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:32:55.319 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 11:32:55.387 TextGenerator:22-Parallel procecing started: Thread-5 
+{INFO } 2024-10-21 11:32:55.389 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 11:32:55.388 TextGenerator:30-Parallel processing finished: Thread-5 
+{INFO } 2024-10-21 11:32:55.389 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 11:36:53.259 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:36:55.275 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:36:55.433 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:36:55.435 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:36:55.485 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:36:57.493 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:36:57.521 ModelLogic:20-Thread 1 started: Thread-3 
+{INFO } 2024-10-21 11:36:57.542 ModelLogic:37-Thread 2 started: Thread-4 
+{INFO } 2024-10-21 11:36:57.598 ModelLogic:28-Thread 1 finished: Thread-3 
+{INFO } 2024-10-21 11:36:57.600 ModelLogic:45-Thread 2 finished: Thread-4 
+{INFO } 2024-10-21 11:36:57.601 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:36:57.602 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:36:57.622 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 11:36:57.633 TextGenerator:22-Parallel procecing started: Thread-5 
+{INFO } 2024-10-21 11:36:57.635 TextGenerator:30-Parallel processing finished: Thread-5 
+{INFO } 2024-10-21 11:36:57.638 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 11:36:57.639 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 11:37:41.031 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:37:41.050 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:37:41.102 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:37:41.104 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:37:41.105 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:37:41.109 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:39:37.806 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:39:37.815 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:39:37.865 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:39:37.867 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:39:37.869 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:39:37.877 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:40:54.150 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:40:54.159 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:40:54.215 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:40:54.216 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:40:54.217 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:40:54.222 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:42:40.118 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:42:40.130 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:42:40.189 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:42:40.190 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:42:40.191 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:42:40.195 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:43:17.173 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:43:19.213 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:43:19.326 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:43:19.328 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:43:19.384 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:43:21.396 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:43:21.460 ModelLogic:20-Thread 1 started: Thread-3 
+{INFO } 2024-10-21 11:43:21.465 ModelLogic:37-Thread 2 started: Thread-4 
+{INFO } 2024-10-21 11:43:21.511 ModelLogic:28-Thread 1 finished: Thread-3 
+{INFO } 2024-10-21 11:43:21.513 ModelLogic:45-Thread 2 finished: Thread-4 
+{INFO } 2024-10-21 11:43:21.514 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:43:21.516 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:43:21.531 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 11:43:21.537 TextGenerator:22-Parallel procecing started: Thread-5 
+{INFO } 2024-10-21 11:43:21.540 TextGenerator:30-Parallel processing finished: Thread-5 
+{INFO } 2024-10-21 11:43:21.545 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 11:43:21.545 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
+{INFO } 2024-10-21 11:44:40.879 ModelLogic:20-Thread 1 started: Thread-0 
+{INFO } 2024-10-21 11:44:40.890 ModelLogic:37-Thread 2 started: Thread-1 
+{INFO } 2024-10-21 11:44:40.950 ModelLogic:28-Thread 1 finished: Thread-0 
+{INFO } 2024-10-21 11:44:40.951 ModelLogic:45-Thread 2 finished: Thread-1 
+{INFO } 2024-10-21 11:44:40.952 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:44:40.956 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:52:04.170 FibonacciSequence:27-Thread started for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:52:06.196 FibonacciSequence:41-Thread finished for Fibonacci calculation: main 
+{INFO } 2024-10-21 11:52:06.258 FibonacciSequenceWithCallable:27-Thread started for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:52:06.260 FibonacciSequenceWithCallable:35-Thread finished for Fibonacci calculation with Callable: Thread-main 
+{INFO } 2024-10-21 11:52:06.338 FibonacciSequenceWithExecutors:27-Thread started for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:52:08.345 FibonacciSequenceWithExecutors:41-Thread finished for Fibonacci calculation with Executor: Thread-main 
+{INFO } 2024-10-21 11:52:08.377 ModelLogic:20-Thread 1 started: Thread-3 
+{INFO } 2024-10-21 11:52:08.383 ModelLogic:37-Thread 2 started: Thread-4 
+{INFO } 2024-10-21 11:52:08.426 ModelLogic:28-Thread 1 finished: Thread-3 
+{INFO } 2024-10-21 11:52:08.428 ModelLogic:45-Thread 2 finished: Thread-4 
+{INFO } 2024-10-21 11:52:08.428 ModelLogic:57-Thread 1 joined to main thread: Thread-main 
+{INFO } 2024-10-21 11:52:08.432 ModelLogic:59-Thread 2 joined to ain thread: Thread-main 
+{INFO } 2024-10-21 11:52:08.442 MyPipe:22-Starting parallel processing in TextGenerator: Thread main 
+{INFO } 2024-10-21 11:52:08.445 TextGenerator:22-Parallel procecing started: Thread-5 
+{INFO } 2024-10-21 11:52:08.449 MyPipe:31-Reading finished, waiting for thread to join: Thread main 
+{INFO } 2024-10-21 11:52:08.449 TextGenerator:30-Parallel processing finished: Thread-5 
+{INFO } 2024-10-21 11:52:08.451 MyPipe:37-Parallel processing finished, thread joined to main: Thread main 
